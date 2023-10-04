@@ -2,7 +2,7 @@
 Aufgabe04-10
 
 
-<h1>######################### Befehle für die Verbindung verwendet:###########################</h1>
+<h1>#### Befehle für die Verbindung verwendet:####</h1>
 
 
       
