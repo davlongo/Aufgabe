@@ -1,6 +1,12 @@
 # Aufgabe git
 Aufgabe04-10
+
+
+
 ######################### Befehle für die Verbindung verwendet###########################
+
+
+
 git init: nitialisiert ein neues Git-Repository in einem Verzeichnis.
 git clone git@github.com:davlongo/Aufgabe.git: Kopiert ein bestehendes Git-Repository von einer URL
 git add [Dateiname]: Fügt Dateien zur Staging-Area hinzu, um sie für den Commit vorzubereiten.
