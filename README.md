@@ -6,15 +6,15 @@ Aufgabe04-10
 
 
       
-<li>-git init: nitialisiert ein neues Git-Repository in einem Verzeichnis.</li>
+<li>git init: nitialisiert ein neues Git-Repository in einem Verzeichnis.</li>
 
--git clone git@github.com:davlongo/Aufgabe.git: Kopiert ein bestehendes Git-Repository von einer URL
+<li>git clone git@github.com:davlongo/Aufgabe.git: Kopiert ein bestehendes Git-Repository von einer URL</li>
 
--git add [Dateiname]: Fügt Dateien zur Staging-Area hinzu, um sie für den Commit vorzubereiten.
+<li>git add [Dateiname]: Fügt Dateien zur Staging-Area hinzu, um sie für den Commit vorzubereiten.</li>
 
--git commit -m "Nachricht": Erstellt einen Commit mit den in der Staging-Area befindlichen Änderungen und einer Commit-Nachricht.
+<li>git commit -m "Nachricht": Erstellt einen Commit mit den in der Staging-Area befindlichen Änderungen und einer Commit-Nachricht.</li>
 
--git pull: Aktualisiert Ihr lokales Repository mit den neuesten Änderungen aus dem Remote-Repository.
+<li>-git pull: Aktualisiert Ihr lokales Repository mit den neuesten Änderungen aus dem Remote-Repository.</li>
 
--git push: Sendet Ihre lokalen Commits an das Remote-Repository.
+<li>-git push: Sendet Ihre lokalen Commits an das Remote-Repository.</li>
 
